@@ -1,0 +1,27 @@
+﻿@page
+@{
+}
+
+<br />
+<br />
+<br />
+
+@*upload image*@
+<div class="container-sm">
+    @using (Html.BeginForm("ProcessUpload", "Profile", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        <div>
+            <label for="file">Choose an image:</label>
+            <input type="file" name="file" id="file" />
+        </div>
+        <div>
+            <input type="submit" value="Upload" />
+        </div>
+    }
+
+    @if (ViewBag.Message != null)
+    {
+        <p>@ViewBag.Message</p>
+        <img src="@ViewBag.ImagePath" alt="Uploaded Image" />
+    }
+</div>

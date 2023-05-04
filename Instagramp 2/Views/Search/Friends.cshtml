@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ClassLibrary.PostModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="searchTerm">
+    <h1>Posts about Friends</h1>
+    <br>
+</div>
+
+@foreach (var item in @Model)
+{
+    <div class="card">
+        <div class="img-container">
+            <img src="data:image;base64,@item.ImgURL" class="filteredcard-img-top" alt="...">
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@item.Title</h5>
+            <p class="card-text">@item.Description</p>
+        </div>
+    </div>
+}

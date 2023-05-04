@@ -1,0 +1,64 @@
+﻿@model IEnumerable<ClassLibrary.PostModel>
+
+<style>
+    .profile-title {
+        font: normal normal normal 80px Segoe UI;
+        color: #3473FE;
+    }
+
+    .profile-bio {
+        font: normal normal normal 40px Segoe UI;
+        color: #3473FE;
+    }
+
+    .profile-img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .image-resize {
+        width: 400px;
+        height: 400px;
+    }
+</style>
+<br />
+<br />
+<br />
+
+<div class="container">
+    <div class="row">
+        <div class="col-4">
+            <img class="profile-img" src="~/img/profile.png" />
+        </div>
+        <div class="col-8">
+            <h1 class="profile-title">Ace Lake</h1>
+            <h3 class="profile-bio">This is an example bio. This can include things like where you are from, your favorite hobbies, or something cool about you.</h3>
+        </div>
+    </div>
+</div>
+
+<br />
+<br />
+<br />
+
+<a href="/Profile/UploadImage" class="btn btn-primary">Add Post</a>
+
+@foreach (var item in Model)
+{
+    <br>
+    <br>
+    <br>
+    <div class="card">
+        <div class="img-container">
+            <img src="data:image;base64,@item.ImgURL" class="card-img-top" alt="...">
+        </div>
+        <div class="card-body">
+            <h5 class="card-title">@item.Title</h5>
+            <p class="card-text">@item.Description</p>
+            <a href="/Home/ShowPostEditForm/@item.Id" class="btn btn-warning">Edit</a>
+            <a href="/Home/ShowPostDeleteForm/@item.Id" class="btn btn-danger">Delete</a>
+        </div>
+    </div>
+}
+
+

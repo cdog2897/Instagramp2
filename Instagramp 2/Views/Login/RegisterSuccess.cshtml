@@ -1,0 +1,37 @@
+﻿@model RegisterAndLoginApp.Models.UserModel
+
+@{
+    ViewData["Title"] = "RegisterResults";
+}
+
+<h1>Registration results</h1>
+
+<div>
+    <h4>Here are your values for your new account!</h4>
+    <h6>Make sure to save your password in a safe place!</h6>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Id)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Id)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+    </dl>
+</div>
+<div>
+   
+    <a asp-controller="Home" asp-action="Index"><h3>Back to the Homepage!</h3></a>
+</div>

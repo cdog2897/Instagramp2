@@ -1,0 +1,12 @@
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/bin/Debug/net6.0/ClassLibrary.deps.json
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/bin/Debug/net6.0/ClassLibrary.dll
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/bin/Debug/net6.0/ClassLibrary.pdb
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.AssemblyReference.cache
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfoInputs.cache
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfo.cs
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/ClassLibrary.dll
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/refint/ClassLibrary.dll
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/ClassLibrary.pdb
+/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/obj/Debug/net6.0/ref/ClassLibrary.dll

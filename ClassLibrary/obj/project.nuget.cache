@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cOteGJa8Fet66X8VtzUH3lRduO5NDGESz6IjZg+kXt6CWmRoyAnYD/Nrn4emVrC4IcweKrGVQmqaUt2wzdxu0A==",
+  "success": true,
+  "projectFilePath": "/Users/luberdoodle/Projects/Instagramp-2/ClassLibrary/ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/luberdoodle/.nuget/packages/mongodb.bson/2.19.0/mongodb.bson.2.19.0.nupkg.sha512",
+    "/Users/luberdoodle/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,217 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-color: rgba(0,0,0,.21);
+}
+
+.nav-shadow {
+    height: 12px;
+    background-image: linear-gradient(180deg, rgba(0,0,0,.21), rgba(0,0,0,0));
+}
+.logo-words {
+    display: flex;
+    padding: 10px;
+    padding-left: 0px;
+    color: #3473FE;
+    text-decoration: none;
+    font-size:44px;
+    font-family:'Segoe UI';
+}
+.logo {
+    width: 85px;
+    padding-left: 22px;
+    padding-top: 17px;
+    padding-bottom: 17px;    
+}
+.pluss-shadow {
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+}
+.card {
+    border-color: #4287f5;
+    border-width: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 700px;
+    overflow: hidden;
+}
+
+.card-title {
+    font-size: 30px;
+    color: black;
+}
+
+.card-text {
+    padding-top: 10px;
+}
+
+.img-container {
+    width: 100%;
+    height: 70%;
+    overflow: hidden;
+}
+.card-img-top {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+nav {
+    padding-left: 50px;
+    color: #3473FE;
+    text-decoration: none;
+    font-size: 25px;
+    font-family: 'Segoe UI';
+    z-index: 9999;
+}
+.nav-link {
+    color: #3473FE;
+}
+
+.card-body {
+    padding-bottom: 50px;
+    margin-top: 10px;
+}
+
+.searchcard img {
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 450px;
+    height: 450px;
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, 0);
+    outline: 2px solid;
+    outline-color: black;
+    outline-offset: 0.5px;
+    text-shadow: none;
+    transition: 1s ease;
+}
+
+.searchrow {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    justify-items: center; 
+}
+
+.searchcard {
+    width: 100%;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+
+.btn-browse {
+    background-color: #3473FE;
+    color: #fff;
+    border: white;
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+.btn-browse:hover {
+    background-color: white;
+    color: #3473FE;
+    text-shadow: 1px 1px 2px #427388;
+    border: solid;
+    border-color: #3473FE;
+    transition: 2s;
+}
+
+
+@media (min-width: 768px) {
+    .searchrow {
+        justify-content: space-between; 
+    }
+
+    .searchcard {
+        width: calc(50% - 10px); 
+        margin-right: 10px; 
+        margin-bottom: 0; 
+    }
+}
+
+
+.searchcard:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+    transition: 2s ease;
+    outline-color: rgba(255, 255, 255, 0);
+    outline-offset: 15px;
+    text-shadow: 1px 1px 2px #427388;
+}
+
+.searchrow::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.searchcard-title {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+    color: #3473FE;
+}
+
+.searchcard-text {
+    font-size: 16px;
+    color: #6c757d; 
+}
+
+
+.searchcard-body {
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 0px;
+    transition: 2s ease;
+    outline-color: rgba(255, 255, 255, 0);
+    outline-offset: 15px;
+}
+
+.searchcard:nth-child(2n+1) {
+    margin-bottom: 20px; 
+}
+
+.searchTerm {
+    color: #3473FE;
+    text-decoration: none;
+    font-size: 44px;
+    font-family: 'Segoe UI';
+    text-align: center;
+    transition: color 0.3s ease-in-out;
+}
+
+.searchTerm:hover {
+    text-decoration-color: inherit;
+    color: #008EF4;
+}
+
+.filteredcard-img-top {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.filteredimg-container {
+    width: 100%;
+    height: 70%;
+    overflow: hidden;
+}

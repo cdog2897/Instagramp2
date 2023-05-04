@@ -1,0 +1,337 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/obj/Debug/net6.0/scopedcss/projectbundle/Instagramp 2.bundle.scp.css",
+      "PackagePath": "staticwebassets/Instagramp 2.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/InstagrampLogo.png",
+      "PackagePath": "staticwebassets/img/InstagrampLogo.png"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/Mountain.jpg",
+      "PackagePath": "staticwebassets/img/Mountain.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/Mountain2.jpg",
+      "PackagePath": "staticwebassets/img/Mountain2.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/Mountain3.jpg",
+      "PackagePath": "staticwebassets/img/Mountain3.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/dawgsoutpic.jpg",
+      "PackagePath": "staticwebassets/img/dawgsoutpic.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/familypic.jpg",
+      "PackagePath": "staticwebassets/img/familypic.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/foodpic.jpg",
+      "PackagePath": "staticwebassets/img/foodpic.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/friendspic.jpg",
+      "PackagePath": "staticwebassets/img/friendspic.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/naturepic.jpg",
+      "PackagePath": "staticwebassets/img/naturepic.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/otherpic.jpg",
+      "PackagePath": "staticwebassets/img/otherpic.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/profile.png",
+      "PackagePath": "staticwebassets/img/profile.png"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/img/sportspic.jpg",
+      "PackagePath": "staticwebassets/img/sportspic.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/uploads/GreatBarrierReef.jpg",
+      "PackagePath": "staticwebassets/uploads/GreatBarrierReef.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/uploads/abbeyroad.jpg",
+      "PackagePath": "staticwebassets/uploads/abbeyroad.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/uploads/bronbron.jpg",
+      "PackagePath": "staticwebassets/uploads/bronbron.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/uploads/chickfila.jpg",
+      "PackagePath": "staticwebassets/uploads/chickfila.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/uploads/familyimage.jpg",
+      "PackagePath": "staticwebassets/uploads/familyimage.jpg"
+    },
+    {
+      "Id": "/Users/luberdoodle/Projects/Instagramp-2/Instagramp 2/wwwroot/uploads/foodpic.jpg",
+      "PackagePath": "staticwebassets/uploads/foodpic.jpg"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.Instagramp 2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.Instagramp 2.props",
+      "PackagePath": "build\\Instagramp 2.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.Instagramp 2.props",
+      "PackagePath": "buildMultiTargeting\\Instagramp 2.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.Instagramp 2.props",
+      "PackagePath": "buildTransitive\\Instagramp 2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

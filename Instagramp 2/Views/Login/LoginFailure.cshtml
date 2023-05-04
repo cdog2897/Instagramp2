@@ -1,0 +1,9 @@
+﻿@model RegisterAndLoginApp.Models.UserModel
+
+<div>
+	<h1>Failed to find User with that username and password</h1>
+	<br/>
+	<h3>The username "@Model.Username" or the password "@Model.Password" were incorrect.</h3>
+	<br/>
+	<a asp-area="" asp-controller="Login" asp-action="Index">Try Again</a>
+</div>

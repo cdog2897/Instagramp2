@@ -1,0 +1,69 @@
+﻿@model ClassLibrary.PostModel
+
+@{
+    ViewData["Title"] = "AddPost";
+}
+
+@{
+    Console.WriteLine("FILE: " + ViewBag.FilePath);
+}
+
+<h1>AddPost</h1>
+
+<h4>PostModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="PostSuccess">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <input asp-for="ImgURL" class="form-control" value="@ViewBag.FilePath" type="hidden" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label>Category:</label><br>
+                <input type="radio" name="Category" value="Family" title="Family" /> Family <br>
+                <input type="radio" name="Category" value="Friends" title="Friends" /> Friends <br>
+                <input type="radio" name="Category" value="Nature" title="Nature" /> Nature <br>
+                <input type="radio" name="Category" value="Food" title="Food" /> Food <br>
+                <input type="radio" name="Category" value="Sports" title="Sports" /> Sports <br>
+                <input type="radio" name="Category" value="Other" title="Other" /> Other <br>
+
+                <span id="categoryValidation" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    <script>
+        // Client-side validation for selecting at least one category
+        $('form').submit(function () {
+            var selectedCategories = $('input[name="Category"]:checked').length;
+            if (selectedCategories === 0) {
+                $('#categoryValidation').text('Please select at least one category.');
+                return false;
+            }
+        });
+    </script>
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
